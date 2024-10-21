@@ -21,7 +21,7 @@ The Memory Game is an interactive card-matching game built using HTML, CSS (Boot
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/memory-game.git
+   git clone https://github.com/Sonia-Giri/Memory-Game.git
 
 2. Navigate to the project directory:
    cd memory-game
