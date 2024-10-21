@@ -19,14 +19,22 @@ The Memory Game is an interactive card-matching game built using HTML, CSS (Boot
 - JavaScript
 
 ## Installation
-- Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/memory-game.git
 
+2. Navigate to the project directory:
+   cd memory-game
 
-### Notes:
-1. **Ensure Consistency**: Check that the links to your repository and any license files are accurate.
-2. **Use Full Paths**: If your `LICENSE` file is in the root of your project, the link will work. If it's in a subdirectory, make sure to update the path.
-3. **Personalize**: Replace `yourusername` with your actual GitHub username in the clone command.
+3. Open index.html in your web browser to start playing the game.
 
-This `README.md` provides a comprehensive overview of your project, including descriptions, features, installation instructions, usage guidelines, contributing information, and licensing details.
+## Usage
+  - Click the Play button to start the game.
+  - Match pairs of cards by flipping them over.
+  - Use the Pause button to halt the game at any time.
+  - Check your time and compare it on the leaderboard after completing the game.
+
+## Contributing
+  Feel free to submit issues or pull requests for any improvements or suggestions!
+  
+
